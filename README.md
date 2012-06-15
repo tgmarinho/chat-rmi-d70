@@ -7,6 +7,14 @@ Código extraído do site: http://www.cs.swan.ac.uk/~csneal/InternetComputing/RM
 
 Para executar o projeto modelo, basta fazer o download das classes .java e colocar em um diretório.
 
+Todo o comando deve ser feito dentro do diretório, por exemplo:
+
+# tgmarinho@tgmarinho:~/Documentos/chat-rmi-d70/src$ javac Main.java 
+# tgmarinho@tgmarinho:~/Documentos/chat-rmi-d70/src$ java Main 
+# tgmarinho@tgmarinho:~/Documentos/chat-rmi-d70/src$ java ChatClient
+# tgmarinho@tgmarinho:~/Documentos/chat-rmi-d70/src$ rmiregistry
+
+
 Abra o terminal do seu SO, Compile as classes que contém o métodoMain. ($ ->  indica código feito no terminal)
 
 $ javac Main.java
